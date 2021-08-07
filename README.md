@@ -19,8 +19,8 @@ The solar panel will generate the maximum amount of energy if it receives the ma
 
 ## Result
 <a name="Results"/>
-
-[click on YouTube video how it works](https://youtu.be/QEnpQpWs0Wg "Solar Tracker")
+As a result, the new device was created with a total cost of €75.78, which is shown in the picture below.
+[click on the link to see how it works (YouTube)](https://youtu.be/QEnpQpWs0Wg "Solar Tracker")
 
 
 ![](images/Device.jpg)
