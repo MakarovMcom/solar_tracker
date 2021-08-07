@@ -23,6 +23,10 @@ As a result, the new device was created with a total cost of €75.78, which is 
 
 [click on the link to see how it works (YouTube)](https://youtu.be/QEnpQpWs0Wg "Solar Tracker")
 
+**Comments from the client:**
+>Many thanks, engineers team!! It was an amazing job, I really appreciate your time and your proposal.
+I was overwhelmed with the solution. Many thanks to all of you and have a nice day!
+FA
 
 ![](images/Device.jpg)
 
