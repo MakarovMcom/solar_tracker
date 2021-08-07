@@ -8,10 +8,10 @@ The project has been created during education in [LUT University](https://www.lu
 
 ## ⚒️ Client task:
 <a name="Task"/>
-... And we want to incorporate a new script based in AI/machine learning that identifies objects blocking the sun and calculates how much time is blocking the sun, because if so, we can avoid that period for the calculation of energy we absorb with the solar panel and change the position of the panel __to maximize the energy gathered.__
+... And we want to incorporate a new script based in AI/machine learning that identifies objects blocking the sun and calculates how much time is blocking the sun, because if so, we can avoid that period for the calculation of energy we absorb with the solar panel and change the position of the panel to maximize the energy gathered.
 
-💡 
-## Idea of possible solution:
+
+## 💡 Idea of possible solution:
 <a name="Solution"/>
 Develop one axe solar tracker prototype that calculates the maximum amount of energy from the lighting object and then rotates in that superposition.
 
