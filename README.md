@@ -10,14 +10,12 @@ The project has been created during education in [LUT University](https://www.lu
 <a name="Task"/>
 ... And we want to incorporate a new script based in AI/machine learning that identifies objects blocking the sun and calculates how much time is blocking the sun, because if so, we can avoid that period for the calculation of energy we absorb with the solar panel and change the position of the panel to maximize the energy gathered.
 
+![](images/sun_trajectory.jpg)
+
 
 ## 💡 Idea of possible solution:
 <a name="Solution"/>
-Develop one axe solar tracker prototype that calculates the maximum amount of energy from the lighting object and then rotates in that superposition.
-
-🧰
-Tools that can be used:
-Arduino platform + sensors (electronics), Espruino Web IDE and C++ Script
+The solar panel will generate the maximum amount of energy if it receives the maximum luminous flux. Maximum luminous flux can be obtained by turning the solar panel as perpendicular to the sun as possible so that the light covers the maximum surface of the solar panel. To determine a comfortable position of the sun, a rotary light sensor is needed, which will collect information in real time. The idea is to create this one axe solar tracker prototype that calculates the maximum amount of energy from the lighting object and then rotates itself in that superposition. For that purpose cheap Arduino hardware and open sourse Espruino Web IDE was used to complete the project. 
 
 ## Result
 <a name="Results"/>
