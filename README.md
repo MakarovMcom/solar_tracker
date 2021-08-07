@@ -17,7 +17,7 @@ The project has been created during education in [LUT University](https://www.lu
 <a name="Solution"/>
 The solar panel will generate the maximum amount of energy if it receives the maximum luminous flux. Maximum luminous flux can be obtained by turning the solar panel as perpendicular to the sun as possible so that the light covers the maximum surface of the solar panel. To determine a comfortable position of the sun, a rotary light sensor is needed, which will collect information in real time. The idea is to create this one axe solar tracker prototype that calculates the maximum amount of energy from the lighting object and then rotates itself in that superposition. For that purpose cheap Arduino hardware and open sourse Espruino Web IDE was used to complete the project. 
 
-## Result
+## 🎯 Result
 <a name="Results"/>
 As a result, the new device was created with a total cost of €75.78, which is shown in the picture below.
 
